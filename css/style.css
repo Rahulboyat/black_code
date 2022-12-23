@@ -96,8 +96,9 @@
    
     .carousel-inner img{
 /*       height: 50vh; */
-       height: 230px!important;
+       height: 270px!important;
 /*        width:100%; */
+       margin-top:25px;
    }
 }
 
