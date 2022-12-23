@@ -97,12 +97,10 @@
     .carousel-inner img{
 /*       height: 50vh; */
        height: 260px;
+       width:100%;
    }
-
-
-   
-
 }
+
 .toggle{
    display: none;
    font-size: 26px;
