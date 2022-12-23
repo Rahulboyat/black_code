@@ -92,6 +92,14 @@
    .toggle {
       display: block!important;
    }
+   
+    .carousel-inner img{
+      height: 50vh;
+   }
+
+
+   
+
 }
 .toggle{
    display: none;
